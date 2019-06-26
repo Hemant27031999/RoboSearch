@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.7d6ec5c8.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.8f34c8bd.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.8f34c8bd.chunk.js.map",
-  "static/css/1.0dbe397a.chunk.css": "/react-gh-pages/static/css/1.0dbe397a.chunk.css",
-  "static/js/1.c490bdd6.chunk.js": "/react-gh-pages/static/js/1.c490bdd6.chunk.js",
-  "static/js/1.c490bdd6.chunk.js.map": "/react-gh-pages/static/js/1.c490bdd6.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/css/1.0dbe397a.chunk.css.map": "/react-gh-pages/static/css/1.0dbe397a.chunk.css.map",
-  "static/css/main.7d6ec5c8.chunk.css.map": "/react-gh-pages/static/css/main.7d6ec5c8.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.ae6c4e6131bc360a6483c4f88244b148.js": "/react-gh-pages/precache-manifest.ae6c4e6131bc360a6483c4f88244b148.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/RoboSearch/static/css/main.7d6ec5c8.chunk.css",
+  "main.js": "/RoboSearch/static/js/main.8f34c8bd.chunk.js",
+  "main.js.map": "/RoboSearch/static/js/main.8f34c8bd.chunk.js.map",
+  "static/css/1.0dbe397a.chunk.css": "/RoboSearch/static/css/1.0dbe397a.chunk.css",
+  "static/js/1.c490bdd6.chunk.js": "/RoboSearch/static/js/1.c490bdd6.chunk.js",
+  "static/js/1.c490bdd6.chunk.js.map": "/RoboSearch/static/js/1.c490bdd6.chunk.js.map",
+  "runtime~main.js": "/RoboSearch/static/js/runtime~main.f687e561.js",
+  "runtime~main.js.map": "/RoboSearch/static/js/runtime~main.f687e561.js.map",
+  "static/css/1.0dbe397a.chunk.css.map": "/RoboSearch/static/css/1.0dbe397a.chunk.css.map",
+  "static/css/main.7d6ec5c8.chunk.css.map": "/RoboSearch/static/css/main.7d6ec5c8.chunk.css.map",
+  "index.html": "/RoboSearch/index.html",
+  "precache-manifest.bb30196dfca6bfae42947eff12671c90.js": "/RoboSearch/precache-manifest.bb30196dfca6bfae42947eff12671c90.js",
+  "service-worker.js": "/RoboSearch/service-worker.js"
 }
